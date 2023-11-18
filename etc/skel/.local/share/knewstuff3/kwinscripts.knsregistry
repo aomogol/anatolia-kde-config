@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="210">
+  <name>Move Window to Center</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>artemisfowl2007</author>
+  <homepage>https://store.kde.org/p/1254986</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>67</rating>
+  <downloads>8818</downloads>
+  <installedfile>/home/aom/.local/share/kwin/scripts/movewindowtocenter</installedfile>
+  <id>1254986</id>
+  <releasedate>2020-04-22</releasedate>
+  <summary>A simple KWin script that introduces a KDE Global Shortcut (Meta+C by default) for centering the active window in the current screen.&lt;br />
+&lt;br />
+Check the &lt;a href="https://github.com/KSmanis/kwin-move-window-to-center" target="_blank" rel="nofollow">GitHub page&lt;/a> for installation and usage...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/07/17/88/1254986/22685139dff18b258b8273e45b584b1b0391.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/07/17/88/1254986/22685139dff18b258b8273e45b584b1b0391.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODc1NTEyNzgiLCJvIjoiMSIsInMiOiI3ZmYyNjgwMTQ4YzEwN2RjOTE5MjFiNjkyN2Y3ZjRlOWFmMTk5N2VjMjM5YTg5YjRlMjFkMjg0MDFmMmE5OTQyOTM3YjcxMjIzYTc1ZDkyZjYyODA0MTY4ODZkMmI5MGI4MWQ3OWIyNjVlMWRhYTg2ODUxZDI3NGI3MDkxNWRhMSIsInQiOjE3MDAwNTY2MjEsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMxLjI1LjEzMCJ9.W8WLkm9AY5C3ROm9orwSlFyvqRzkr7zyJFii5IUcJ-E/movewindowtocenter-1.1.kwinscript</payload>
+  <tags>unix,linux,original-product,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

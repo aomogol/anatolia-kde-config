@@ -1,0 +1,28 @@
+[Desktop Entry]
+DefaultProfile=Anatolia.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1920x1080 screen: Height=939
+1920x1080 screen: Width=1539
+1920x1080 screen: XPosition=381
+1920x1080 screen: YPosition=98
+2 screens: Height=939
+2 screens: Width=1539
+2 screens: XPosition=3171
+2 screens: YPosition=146
+3440x1440 screen: Height=1007
+3440x1440 screen: Width=1652
+3440x1440 screen: XPosition=115
+3440x1440 screen: YPosition=311
+DP-1-1=DP-1-1
+DP-1-1 eDP-1=DP-1-1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAYgBAAAD+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABJQEAAAMAAAYDAAADfQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAPz/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[UiSettings]
+ColorScheme=

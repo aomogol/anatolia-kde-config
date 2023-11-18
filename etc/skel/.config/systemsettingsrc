@@ -1,0 +1,18 @@
+[FileDialogSize]
+2 screens: Height=784
+2 screens: Width=1740
+
+[KFileDialog Settings]
+Recent Files[$e]=aom-vpn.ovpn,file:///mnt/ssddata/works/oracle/oracle-aomogol/aom-vpn.ovpn
+Recent URLs[$e]=file:///mnt/ssddata/works/oracle/oracle-aomogol/
+detailViewIconSize=16
+
+[MainWindow]
+2 screens: Height=770
+2 screens: Width=1417
+2 screens: XPosition=2738
+2 screens: YPosition=295
+DP-1-1 eDP-1=DP-1-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABYkAAAMCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

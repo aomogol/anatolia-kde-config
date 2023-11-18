@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Kora</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>tarma</author>
+  <homepage>https://store.kde.org/p/1256209</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>3264</downloads>
+  <installedfile>/home/aom/.local/share/icons/kora/*</installedfile>
+  <installedfile>/home/aom/.local/share/icons/kora-light-panel/*</installedfile>
+  <installedfile>/home/aom/.local/share/icons/kora-light/*</installedfile>
+  <id>1256209</id>
+  <releasedate>2023-11-14</releasedate>
+  <summary>Kora icon theme for dark and light UI.&lt;br />
+&lt;br />
+*kora - for dark themes with dark panel&lt;br />
+*kora-light - for light themes with dark panel (depends on Kora)&lt;br />
+*kora-light-panel - for light themes with light panel (depends on Kora and Kora-light)&lt;br />
+&lt;br />
+*kora-grey - icon theme...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/50/97/86/1256209/korla-thumb31.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/50/97/86/1256209/korla-thumb31.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTk1NDM5NjciLCJvIjoiMSIsInMiOiI2MzkxZjA3NmM5MGRlODY2MGMwNzYxMWZhN2E3Zjc4NjUxMjY1ZTJhZjA5NzI4NjViNGVjNDRhZGJjMzRmMGZhZDQ1YzJjZWVkMzg5YjA1ZTNmZjAyYTFkZTQ2NjNiZDhjNDViYjRmMGVmNDUwNmNkYmRmMGUwODRkYjk4MDcyMCIsInQiOjE2OTk5ODAxOTYsInN0ZnAiOm51bGwsInN0aXAiOiIyMTcuMTMxLjI1LjEzMCJ9.03iWAsfNypZSfHxoFHlskWRuJIpP3TqEiOogr4eB1hs/kora-1-6-1.zip</payload>
+  <tags>original-product,kora,icon-pack,icon-theme,linux,unix,tarma,gplv3,bikass</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

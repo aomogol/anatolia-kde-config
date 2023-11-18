@@ -1,0 +1,30 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10d0ded862000170020861800000012660004
+clientId2=10d0ded862000170008098000000012030006
+clientId3=10d0ded862000170021252500000012660006
+clientId4=10d0ded862000170031730300000012660066
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/dolphin_10d0ded862000170008098000000012030006_1700318098_586555
+discardCommand4[$e]=rm,$HOME/.config/session/konsole_10d0ded862000170031730300000012660066_1700318098_546986
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/dolphin
+program3=/usr/bin/plasma-systemmonitor
+program4=/usr/bin/konsole
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10d0ded862000170020861800000012660004_1700318098_546933
+restartCommand2=/usr/bin/dolphin,-session,10d0ded862000170008098000000012030006_1700318098_586555
+restartCommand3=/usr/bin/plasma-systemmonitor,-session,10d0ded862000170021252500000012660006_1700318098_556503
+restartCommand4=/usr/bin/konsole,-session,10d0ded862000170031730300000012660066_1700318098_546986
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=aom
+userId2=aom
+userId3=aom
+userId4=aom
